@@ -7,6 +7,10 @@ class Mahasiswa{
         string nama;
         float nilai;
 
+        void printdata{}{
+            
+        }
+
 };
 int main() {
 
