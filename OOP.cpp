@@ -14,6 +14,12 @@ class Mahasiswa{
         }
 
 };
-int main() {
 
+int main() {
+    Mahasiswa mhs;
+    mhs.nim = 2024;
+    mhs.nama = "Salman";
+    mhs.nilai = 90.5;
+
+    mhs.printData();
 }
